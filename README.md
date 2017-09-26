@@ -6,6 +6,7 @@ These are the exercise files used for [Social Media Analysis using R](https://ww
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/social-media-analysis-r.html
+https://www.tertiarycourses.com.my/social-media-analysis-r-malaysia.html
 
 <p><strong>Module 1: Creating Network Graphs</strong></p>
 <ul>
